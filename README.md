@@ -67,7 +67,9 @@
 3. 중간 발표와 최종 발표에는 필수적으로 참여해야 한다.
 ```
 
-해결 방안서
+__해결 방안서:__\
+[불참해결방안서.pdf](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11939643/default.pdf)
+
 
 ---
 
