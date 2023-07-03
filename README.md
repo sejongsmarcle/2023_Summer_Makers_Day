@@ -40,7 +40,8 @@
 6. 팀플이기에 각 팀에서 1회라도 지켜지지 않을 시, 바로 해당 팀원을 메이커스 데이에서 퇴출한다.
 ```
 
-일지 양식
+__일지 양식:__\
+[Makers일지양식.pdf](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11940010/Makers.3.pdf)
 
 ### 비대면 관련사항
 
