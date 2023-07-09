@@ -41,7 +41,9 @@
 ```
 
 __일지 양식:__\
-[Makers일지양식.pdf](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11940010/Makers.3.pdf)
+[Makers일지양식.pdf](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11940010/Makers.3.pdf)\
+[Makers일지양식.docx](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11994491/Makers.docx)
+
 
 ### 비대면 관련사항
 
@@ -69,7 +71,7 @@ __일지 양식:__\
 ```
 
 __해결 방안서:__\
-[불참해결방안서.pdf](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11939643/default.pdf)
+[불참해결방안서.pdf](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11939643/default.pdf)\
 [메이커스데이불참해결방안서.docx](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11994468/default.docx)
 
 
