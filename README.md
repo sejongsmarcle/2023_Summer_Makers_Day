@@ -42,7 +42,7 @@
 
 __일지 양식:__\
 [Makers일지양식.pdf](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11940010/Makers.3.pdf)\
-[Makers일지양식.docx](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11994491/Makers.docx)
+[Makers일지양식_통합본.docx](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11994491/Makers.docx)
 
 
 ### 비대면 관련사항
