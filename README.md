@@ -41,8 +41,9 @@
 ```
 
 __일지 양식:__\
-[Makers일지양식.pdf](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11940010/Makers.3.pdf)\
-[Makers일지양식_통합본.docx](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/11994491/Makers.docx)
+[Makers_페어_일지양식_2023.docx](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/12061787/Makers_._._2023.docx)\
+[Makers_팀_일지양식_2023.docx](https://github.com/sejongsmarcle/2023_Summer_Makers_Day/files/12061786/Makers_._._2023.docx)
+
 
 
 ### 비대면 관련사항
